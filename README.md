@@ -4,8 +4,8 @@ This code is for the cross-section measurement of single-top quark processes. Th
 
 ## The Analysis Codes folder contains the following files-
 SingleTopAna.C -> The main C script <br>
-SingleTopAna.h -> The associated header file <be>
-ana.C <br>
+SingleTopAna.h -> The associated header file <br>
+ana.C -> Driver script <be>
 
 
 **What does it do? How do I run?**
